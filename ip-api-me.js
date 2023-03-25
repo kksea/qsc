@@ -46,7 +46,7 @@ var flags = new Map([["AC", "🇦🇨"], ["AD", "🇦🇩"], ["AE", "🇦🇪"],
 // var country = obj['country'];
 // var city = obj['city'];
 // var title = flags.get(obj['countryCode']) + ' ' + country + ' ' + cityCheck(city);
-var title = flags.get(obj['countryCode']) + ' ' + createTitle;
+var title = flags.get(obj['countryCode']) + ' ' + createTitle();
 var subtitle = ispCheck(obj['isp']) + ' • ' + ip;
 var description = '城市:' + country + city + '\n'
     + '地区:' + cityCheck(obj['regionName']) + '\n'
