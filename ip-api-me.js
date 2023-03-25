@@ -48,10 +48,10 @@ var flags = new Map([["AC", "🇦🇨"], ["AD", "🇦🇩"], ["AE", "🇦🇪"],
 // var title = flags.get(obj['countryCode']) + ' ' + country + ' ' + cityCheck(city);
 var title = flags.get(obj['countryCode']) + ' ' + createTitle();
 var subtitle = ispCheck(obj['isp']) + ' • ' + ip;
-var description = '城市:' + createTitle() + '\n'
-    + '地区:' + cityCheck(obj['regionName']) + '\n'
-    + '服务商:' + obj['isp'] + '\n'
-    + 'AS:' + obj['as'] + '\n'
-    + 'IP:' + ip + '\n'
-    + '时区:' + obj['timezone'];
+var description = '城市：' + createTitle() + '\n'
+    + '地区：' + cityCheck(obj['regionName']) + '\n'
+    + 'IP：' + ip + '\n'
+    + '时区：' + obj['timezone'] + '\n'
+    + '服务商：' + obj['isp'] + '\n'
+    + 'AS：' + obj['as'];
 $done({ title, subtitle, ip, description });
