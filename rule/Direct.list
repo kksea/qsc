@@ -1,0 +1,45 @@
+# 苹果推送服务
+host-keyword, push.apple.com, direct
+# 苹果时间同步
+host, time.apple.com, direct
+# 苹果天气服务
+host-keyword, weather-edge.apple.com, direct
+host-keyword, weather-adge.apple.com, direct
+host-suffix, weather-data.apple.com, direct
+host-suffix, weather-map.apple.com, direct
+host-suffix, weather-analytics-events.apple.com, direct
+# 苹果内购服务
+host-keyword, buy.itunes.apple.com, direct
+# 苹果icloud
+host-keyword, icloud.com, direct
+# 苹果输入法相关服务
+host-keyword, api.smoot.apple.com, direct
+host-keyword, api.smoot.apple.cn, direct
+# 苹果iMessage服务
+host, init.ess.apple.com, direct
+# 苹果其他服务
+host-keyword, ssl.apple.com, direct
+host-keyword, humb.apple.com, direct
+host, smp-device-content.apple.com, direct
+host-keyword, api-adservices.apple.com, direct
+host-keyword, ls.apple.com, direct
+host-keyword, gsa.apple.com, direct
+host-keyword, ess.apple.com, direct
+# QQ空间
+host-keyword, ctc.qzs.qzone.qq.com, direct
+# 路由器后台
+ip-cidr, 192.168.0.1/24, direct
+# 天翼网关
+ip-cidr, 192.168.1.1/24, direct
+# 12306
+host, ad.12306.cn, direct
+# 本地
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 224.0.0.0/24, direct
+ip-cidr, 182.254.116.0/24, direct
+# Other
+host, gg.caixin.com, direct
+host, sdkapp.uve.weibo.com, direct
