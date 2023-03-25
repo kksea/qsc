@@ -13,6 +13,20 @@ function cityCheck(parameter) {
     }
 }
 
+var country = obj['country'];
+var city = obj['city'];
+function createTitle() {
+    if (city) {
+        if(country!=city) {
+            return country + ' ' + city
+        } else {
+            return country
+        }
+    } else {
+        return customCity
+    }
+}
+
 function ispCheck(parameter) {
     if (parameter) {
         return parameter
@@ -26,9 +40,10 @@ var flags = new Map([["AC", "🇦🇨"], ["AD", "🇦🇩"], ["AE", "🇦🇪"],
 var body = $response.body;
 var obj = JSON.parse(body);
 var ip = obj['query'];
-var country = obj['country'];
-var city = obj['city'];
-var title = flags.get(obj['countryCode']) + ' ' + country + ' ' + cityCheck(city);
+// var country = obj['country'];
+// var city = obj['city'];
+// var title = flags.get(obj['countryCode']) + ' ' + country + ' ' + cityCheck(city);
+var title = flags.get(obj['countryCode']) + ' ' + createTitle;
 var subtitle = ispCheck(obj['isp']) + ' • ' + ip;
 var description = '城市:' + country + city + '\n'
     + '地区:' + cityCheck(obj['regionName']) + '\n'
