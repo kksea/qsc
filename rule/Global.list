@@ -357,15 +357,15 @@ HOST-SUFFIX, amazonaws.com, PROXY
 
 # globe
 HOST-SUFFIX, globe.com, PROXY
-HOST-SUFFIX, amazontrust.com
+HOST-SUFFIX, amazontrust.com, PROXY
 
 # MyAIS
-HOST-SUFFIX, entrust.net
-HOST-SUFFIX, azureedge.net
-HOST-SUFFIX, omtrdc.net
-HOST-SUFFIX, adobedtm.com
-HOST-SUFFIX, omtrdc.com
-HOST-KEYWORD, ais
+HOST-SUFFIX, entrust.net, PROXY
+HOST-SUFFIX, azureedge.net, PROXY
+HOST-SUFFIX, omtrdc.net, PROXY
+HOST-SUFFIX, adobedtm.com, PROXY
+HOST-SUFFIX, omtrdc.com, PROXY
+HOST-KEYWORD, ais, PROXY
 
 # Google
 HOST,265.com,Google
