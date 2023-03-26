@@ -357,7 +357,7 @@ HOST, payments-jp.amazon.com, PROXY
 HOST-SUFFIX, amazonaws.com, PROXY
 
 # globe
-HOST-SUFFIX, globe.com, PROXY
+HOST-KEYWORD, globe, PROXY
 HOST-SUFFIX, amazontrust.com, PROXY
 
 # MyAIS
