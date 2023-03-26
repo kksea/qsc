@@ -16,9 +16,37 @@ host-suffix,qc.bsccdn.net, direct
 host-suffix,sui.com, direct
 host-suffix,anythinktech.com, direct
 host-suffix,goofish.com, direct
-host-suffix,tanx.com, direct
-host-suffix,pddpic.com, direct
 HOST-WILDCARD,feidee.*, direct
+host-suffix, keepcdn.com, direct
+host-suffix, qiyukf.com, direct
+host-suffix, qiniup.com, direct
+host-suffix, gotokeep.com, direct
+host-suffix, effirst.com, direct
+host-suffix, cmpassport.com, direct
+host-suffix, netease.im, direct
+host-suffix, mcmpassport.com, direct
+host-suffix, tencentmusic.com, direct
+host-suffix, sngdia.imtmp.net, direct
+host-suffix, irs03.com, direct
+host-suffix, uyunad.com, direct
+host-suffix, kuaishouzt.com, direct
+host-suffix, inkuai.com, direct
+host-suffix, cdnhwc2.com, direct
+host-suffix, vzuu.com, direct
+host-suffix, globalsign.com, direct
+host-suffix, miaozhen.com, direct
+host-suffix, gridsumdissector.com, direct
+host-suffix, c.cdnhwc2.com, direct
+host-suffix, doh.pub, direct
+host-suffix, pki.goog, direct
+host-suffix, caiyunapp.com, direct
+host-suffix, caiyuncdn.com, direct
+host-suffix, lcolorfulclouds.net, direct
+host-suffix, umeng.com, direct
+host-suffix, servicewechat.com, direct
+host-suffix, cdntips.net, direct
+host-suffix, tanx.com, direct
+host-suffix, pki.goog, direct
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
 DOMAIN-SUFFIX,bokecc.com
@@ -318,6 +346,7 @@ DOMAIN-SUFFIX,pptv.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,yangkeduo.com
+host-suffix,pddpic.com, direct
 
 # Sina
 DOMAIN-SUFFIX,leju.com
