@@ -501,14 +501,14 @@ host-suffix, trontv.com, direct
 
 # TeamViewer
 host-suffix, teamviewer.com, direct
-ip-cidr, 139.220.243.27/32,no-resolve, direct
-ip-cidr, 172.16.102.56/32,no-resolve, direct
-ip-cidr, 185.188.32.1/28,no-resolve, direct
-ip-cidr, 221.226.128.146/32,no-resolve, direct
-ip6-cidr, 2a0b:b580::/48,no-resolve, direct
-ip6-cidr, 2a0b:b581::/48,no-resolve, direct
-ip6-cidr, 2a0b:b582::/48,no-resolve, direct
-ip6-cidr, 2a0b:b583::/48,no-resolve, direct
+ip-cidr, 139.220.243.27/32, direct
+ip-cidr, 172.16.102.56/32, direct
+ip-cidr, 185.188.32.1/28, direct
+ip-cidr, 221.226.128.146/32, direct
+ip6-cidr, 2a0b:b580::/48, direct
+ip6-cidr, 2a0b:b581::/48, direct
+ip6-cidr, 2a0b:b582::/48, direct
+ip6-cidr, 2a0b:b583::/48, direct
 
 # Public Direct CDN 公共直连
 #host-suffix, ajax.aspnetcdn.com, direct
