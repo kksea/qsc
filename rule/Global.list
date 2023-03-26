@@ -349,6 +349,24 @@ HOST-SUFFIX, wiktionary.org, PROXY
 HOST-SUFFIX, yahoo.com, PROXY
 HOST, search.yahoo.co.jp, PROXY
 
+# Amazon
+HOST-SUFFIX, amazon.co.jp, PROXY
+HOST, d3c33hcgiwev3.cloudfront.net, PROXY
+HOST, payments-jp.amazon.com, PROXY
+HOST-SUFFIX, amazonaws.com, PROXY
+
+# globe
+HOST-SUFFIX, globe.com, PROXY
+HOST-SUFFIX, amazontrust.com
+
+# MyAIS
+HOST-SUFFIX, entrust.net
+HOST-SUFFIX, azureedge.net
+HOST-SUFFIX, omtrdc.net
+HOST-SUFFIX, adobedtm.com
+HOST-SUFFIX, omtrdc.com
+HOST-KEYWORD, ais
+
 # Google
 HOST,265.com,Google
 HOST,2mdn-cn.net,Google

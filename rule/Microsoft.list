@@ -60,12 +60,16 @@ host-suffix,microsoftedge.com,Microsoft
 host-suffix,microsoftedgeinsider.com,Microsoft
 host-suffix,msedge.net,Microsoft
 host-suffix,s-msedge.net,Microsoft
+host-suffix,edge.skype.com,Microsoft
 
 # > Hotmail & Outlook
 host-keyword,hotmail,Microsoft
 host-keyword,outlook,Microsoft
 host-suffix,outlookgroups.ms,Microsoft
 host-suffix,outlookmobile.com,Microsoft
+host, self.events.data.microsoft.com, Microsoft
+host, in.appcenter.ms, Microsoft
+host, arc.msn.com, Microsoft
 
 # > Office 365
 host-keyword,Office,Microsoft

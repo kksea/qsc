@@ -25,6 +25,7 @@ host-keyword, api-adservices.apple.com, direct
 host-keyword, ls.apple.com, direct
 host-keyword, gsa.apple.com, direct
 host-keyword, ess.apple.com, direct
+host, pancake.apple.com
 # QQ空间
 host-keyword, ctc.qzs.qzone.qq.com, direct
 # 路由器后台
