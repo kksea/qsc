@@ -329,6 +329,7 @@ HOST-SUFFIX,opensource.guide,GitHub
 HOST-SUFFIX,rawgit.com,GitHub
 HOST-SUFFIX,repo.new,GitHub
 HOST-KEYWORD,github,GitHub
+HOST-KEYWORD,gitlab,GitHub
 
 # Wikimedia Foundation
 HOST-SUFFIX, mediawiki.org, PROXY
