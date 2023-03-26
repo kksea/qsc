@@ -15,6 +15,9 @@ host-suffix,xdplt.com, direct
 host-suffix,qc.bsccdn.net, direct
 host-suffix,sui.com, direct
 host-suffix,anythinktech.com, direct
+host-suffix,goofish.com, direct
+host-suffix,tanx.com, direct
+host-suffix,pddpic.com, direct
 HOST-WILDCARD,feidee.*, direct
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com
@@ -43,6 +46,7 @@ DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,appzapp
 DOMAIN-KEYWORD,baidupcs
 DOMAIN-KEYWORD,bilibili
@@ -312,6 +316,7 @@ DOMAIN-SUFFIX,pptv.com
 
 # PDD 拼多多
 DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,yangkeduo.com
 
 # Sina
