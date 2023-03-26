@@ -1,763 +1,765 @@
 # 直连列表
 
 # MyList
-host-suffix,biliimg.com, direct
-host-suffix,idouyinvod.com, direct
-host-suffix,bdurl.net, direct
-host-suffix,5idream.net, direct
-host-suffix,bytegecko.com, direct
-host-suffix,ecombdapi.com, direct
-host-suffix,ssjlicai.com, direct
-host-suffix,alibabachengdun.com, direct
-host-suffix,nstool.yqkk.link, direct
-host-suffix,awemeughun.com, direct
-host-suffix,xdplt.com, direct
-host-suffix,qc.bsccdn.net, direct
-host-suffix,sui.com, direct
-host-suffix,anythinktech.com, direct
-host-suffix,goofish.com, direct
-HOST-WILDCARD,feidee.*, direct
-host-suffix, keepcdn.com, direct
-host-suffix, qiyukf.com, direct
-host-suffix, qiniup.com, direct
-host-suffix, gotokeep.com, direct
-host-suffix, effirst.com, direct
-host-suffix, cmpassport.com, direct
-host-suffix, netease.im, direct
-host-suffix, mcmpassport.com, direct
-host-suffix, tencentmusic.com, direct
-host-suffix, sngdia.imtmp.net, direct
-host-suffix, irs03.com, direct
-host-suffix, uyunad.com, direct
-host-suffix, kuaishouzt.com, direct
-host-suffix, inkuai.com, direct
-host-suffix, cdnhwc2.com, direct
-host-suffix, vzuu.com, direct
-host-suffix, globalsign.com, direct
-host-suffix, miaozhen.com, direct
-host-suffix, gridsumdissector.com, direct
-host-suffix, c.cdnhwc2.com, direct
-host-suffix, doh.pub, direct
-host-suffix, pki.goog, direct
-host-suffix, caiyunapp.com, direct
-host-suffix, caiyuncdn.com, direct
-host-suffix, lcolorfulclouds.net, direct
-host-suffix, umeng.com, direct
-host-suffix, servicewechat.com, direct
-host-suffix, cdntips.net, direct
-host-suffix, tanx.com, direct
-host-suffix, pki.goog, direct
-DOMAIN-SUFFIX,13th.tech
-DOMAIN-SUFFIX,423down.com
-DOMAIN-SUFFIX,bokecc.com
-DOMAIN-SUFFIX,chaipip.com
-DOMAIN-SUFFIX,chinaplay.store
-DOMAIN-SUFFIX,hrtsea.com
-DOMAIN-SUFFIX,kaikeba.com
-DOMAIN-SUFFIX,laomo.me
-DOMAIN-SUFFIX,mpyit.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,qupu123.com
-DOMAIN-SUFFIX,pdfwifi.com
-DOMAIN-SUFFIX,zhenguanyu.biz
-DOMAIN-SUFFIX,zhenguanyu.com
+host-suffix, biliimg.com
+host-suffix, idouyinvod.com
+host-suffix, bdurl.net
+host-suffix, 5idream.net
+host-suffix, bytegecko.com
+host-suffix, ecombdapi.com
+host-suffix, ssjlicai.com
+host-suffix, alibabachengdun.com
+host-suffix, nstool.yqkk.link
+host-suffix, awemeughun.com
+host-suffix, xdplt.com
+host-suffix, qc.bsccdn.net
+host-suffix, sui.com
+host-suffix, anythinktech.com
+host-suffix, goofish.com
+host-suffix, feidee.net
+host-suffix, feidee.com
+host-suffix, crashlytics.com
+host-suffix, keepcdn.com
+host-suffix, qiyukf.com
+host-suffix, qiniup.com
+host-suffix, gotokeep.com
+host-suffix, effirst.com
+host-suffix, cmpassport.com
+host-suffix, netease.im
+host-suffix, mcmpassport.com
+host-suffix, tencentmusic.com
+host-suffix, sngdia.imtmp.net
+host-suffix, irs03.com
+host-suffix, uyunad.com
+host-suffix, kuaishouzt.com
+host-suffix, inkuai.com
+host-suffix, cdnhwc2.com
+host-suffix, vzuu.com
+host-suffix, globalsign.com
+host-suffix, miaozhen.com
+host-suffix, gridsumdissector.com
+host-suffix, c.cdnhwc2.com
+host-suffix, doh.pub
+host-suffix, pki.goog
+host-suffix, caiyunapp.com
+host-suffix, caiyuncdn.com
+host-suffix, lcolorfulclouds.net
+host-suffix, umeng.com
+host-suffix, servicewechat.com
+host-suffix, cdntips.net
+host-suffix, tanx.com
+host-suffix, pki.goog
+host-suffix, 13th.tech
+host-suffix, 423down.com
+host-suffix, bokecc.com
+host-suffix, chaipip.com
+host-suffix, chinaplay.store
+host-suffix, hrtsea.com
+host-suffix, kaikeba.com
+host-suffix, laomo.me
+host-suffix, mpyit.com
+host-suffix, msftconnecttest.com
+host-suffix, msftncsi.com
+host-suffix, qupu123.com
+host-suffix, pdfwifi.com
+host-suffix, zhenguanyu.biz
+host-suffix, zhenguanyu.com
 
 # CN域名直连(中国|公司|网络)
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,xn--fiqs8s
-DOMAIN-SUFFIX,xn--55qx5d
-DOMAIN-SUFFIX,xn--io0a7i
+host-suffix, cn
+host-suffix, xn--fiqs8s
+host-suffix, xn--55qx5d
+host-suffix, xn--io0a7i
 
 # 中国国内常见域名关键词直连
-DOMAIN-KEYWORD,360buy
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alimama
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,alibaba
-DOMAIN-KEYWORD,appzapp
-DOMAIN-KEYWORD,baidupcs
-DOMAIN-KEYWORD,bilibili
-DOMAIN-KEYWORD,ccgslb
-DOMAIN-KEYWORD,chinacache
-DOMAIN-KEYWORD,duobao
-DOMAIN-KEYWORD,jdpay
-DOMAIN-KEYWORD,moke
-DOMAIN-KEYWORD,qhimg
-DOMAIN-KEYWORD,vpimg
-DOMAIN-KEYWORD,xiami
-DOMAIN-KEYWORD,xiaomi
+host-keyword, 360buy
+host-keyword, alicdn
+host-keyword, alimama
+host-keyword, alipay
+host-keyword, alibaba
+host-keyword, appzapp
+host-keyword, baidupcs
+host-keyword, bilibili
+host-keyword, ccgslb
+host-keyword, chinacache
+host-keyword, duobao
+host-keyword, jdpay
+host-keyword, moke
+host-keyword, qhimg
+host-keyword, vpimg
+host-keyword, xiami
+host-keyword, xiaomi
 
 # 360
-DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,360kuai.com
-DOMAIN-SUFFIX,360safe.com
-DOMAIN-SUFFIX,dhrest.com
-DOMAIN-SUFFIX,qhres.com
-DOMAIN-SUFFIX,qhstatic.com
-DOMAIN-SUFFIX,qhupdate.com
-DOMAIN-SUFFIX,so.com
+host-suffix, 360.com
+host-suffix, 360kuai.com
+host-suffix, 360safe.com
+host-suffix, dhrest.com
+host-suffix, qhres.com
+host-suffix, qhstatic.com
+host-suffix, qhupdate.com
+host-suffix, so.com
 
 # 4399
-DOMAIN-SUFFIX,4399.com
-DOMAIN-SUFFIX,4399pk.com
-DOMAIN-SUFFIX,5054399.com
-DOMAIN-SUFFIX,img4399.com
+host-suffix, 4399.com
+host-suffix, 4399pk.com
+host-suffix, 5054399.com
+host-suffix, img4399.com
 
 # 58
-DOMAIN-SUFFIX,58.com
+host-suffix, 58.com
 
 # Alibaba
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-SUFFIX,aliimg.com
-DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alisoft.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,hichina.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
-DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
+host-suffix, 1688.com
+host-suffix, aliapp.org
+host-suffix, alibaba.com
+host-suffix, alibabacloud.com
+host-suffix, alibabausercontent.com
+host-suffix, alicdn.com
+host-suffix, alicloudccp.com
+host-suffix, aliexpress.com
+host-suffix, aliimg.com
+host-suffix, alikunlun.com
+host-suffix, alipay.com
+host-suffix, alipayobjects.com
+host-suffix, alisoft.com
+host-suffix, aliyun.com
+host-suffix, aliyuncdn.com
+host-suffix, aliyuncs.com
+host-suffix, aliyundrive.com
+host-suffix, amap.com
+host-suffix, autonavi.com
+host-suffix, dingtalk.com
+host-suffix, ele.me
+host-suffix, hichina.com
+host-suffix, mmstat.com
+host-suffix, mxhichina.com
+host-suffix, soku.com
+host-suffix, taobao.com
+host-suffix, taobaocdn.com
+host-suffix, tbcache.com
+host-suffix, tbcdn.com
+host-suffix, tmall.com
+host-suffix, tmall.hk
+host-suffix, ucweb.com
+host-suffix, xiami.com
+host-suffix, xiami.net
+host-suffix, ykimg.com
+host-suffix, youku.com
 
 # Baidu
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubcr.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,baidustatic.com
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,hao123img.com
-DOMAIN-SUFFIX,jomodns.com
-DOMAIN-SUFFIX,yunjiasu-cdn.net
+host-suffix, baidu.com
+host-suffix, baidubcr.com
+host-suffix, baidupcs.com
+host-suffix, baidustatic.com
+host-suffix, bcebos.com
+host-suffix, bdimg.com
+host-suffix, bdstatic.com
+host-suffix, bdurl.net
+host-suffix, hao123.com
+host-suffix, hao123img.com
+host-suffix, jomodns.com
+host-suffix, yunjiasu-cdn.net
 
 # Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
+host-suffix, acg.tv
+host-suffix, acgvideo.com
+host-suffix, b23.tv
+host-suffix, bigfun.cn
+host-suffix, bigfunapp.cn
+host-suffix, biliapi.com
+host-suffix, biliapi.net
+host-suffix, bilibili.com
+host-suffix, biligame.com
+host-suffix, biligame.net
+host-suffix, bilivideo.com
+host-suffix, bilivideo.cn
+host-suffix, hdslb.com
+host-suffix, im9.com
+host-suffix, smtcdns.net
 
 # Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
+host-suffix, battle.net
+host-suffix, battlenet.com
+host-suffix, blizzard.com
 
 # ByteDance
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,bdxiguaimg.com
-DOMAIN-SUFFIX,bdxiguastatic.com
-DOMAIN-SUFFIX,byted-static.com
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytedance.net
-DOMAIN-SUFFIX,bytedns.net
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,bytexservice.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,feelgood.cn
-DOMAIN-SUFFIX,feiliao.com
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,huoshan.com
-DOMAIN-SUFFIX,huoshanzhibo.com
-DOMAIN-SUFFIX,ibytedapm.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,kspkg.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,toutiao13.com
-DOMAIN-SUFFIX,toutiaoapi.com
-DOMAIN-SUFFIX,toutiaocdn.com
-DOMAIN-SUFFIX,toutiaocdn.net
-DOMAIN-SUFFIX,toutiaocloud.com
-DOMAIN-SUFFIX,toutiaohao.com
-DOMAIN-SUFFIX,toutiaohao.net
-DOMAIN-SUFFIX,toutiaoimg.com
-DOMAIN-SUFFIX,toutiaopage.com
-DOMAIN-SUFFIX,wukong.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zijieimg.com
-DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjcdn.com
+host-suffix, amemv.com
+host-suffix, bdxiguaimg.com
+host-suffix, bdxiguastatic.com
+host-suffix, byted-static.com
+host-suffix, bytedance.com
+host-suffix, bytedance.net
+host-suffix, bytedns.net
+host-suffix, bytednsdoc.com
+host-suffix, bytegoofy.com
+host-suffix, byteimg.com
+host-suffix, bytescm.com
+host-suffix, bytetos.com
+host-suffix, bytexservice.com
+host-suffix, douyin.com
+host-suffix, douyinpic.com
+host-suffix, douyinstatic.com
+host-suffix, douyinvod.com
+host-suffix, feelgood.cn
+host-suffix, feiliao.com
+host-suffix, gifshow.com
+host-suffix, huoshan.com
+host-suffix, huoshanzhibo.com
+host-suffix, ibytedapm.com
+host-suffix, iesdouyin.com
+host-suffix, ixigua.com
+host-suffix, kspkg.com
+host-suffix, pstatp.com
+host-suffix, snssdk.com
+host-suffix, toutiao.com
+host-suffix, toutiao13.com
+host-suffix, toutiaoapi.com
+host-suffix, toutiaocdn.com
+host-suffix, toutiaocdn.net
+host-suffix, toutiaocloud.com
+host-suffix, toutiaohao.com
+host-suffix, toutiaohao.net
+host-suffix, toutiaoimg.com
+host-suffix, toutiaopage.com
+host-suffix, wukong.com
+host-suffix, zijieapi.com
+host-suffix, zijieimg.com
+host-suffix, zjbyte.com
+host-suffix, zjcdn.com
 
 # CCTV
-DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,cctvpic.com
-DOMAIN-SUFFIX,livechina.com
+host-suffix, cctv.com
+host-suffix, cctvpic.com
+host-suffix, livechina.com
 
 # ChinaNet
-DOMAIN-SUFFIX,21cn.com
+host-suffix, 21cn.com
 
 # DiDi
-DOMAIN-SUFFIX,didialift.com
-DOMAIN-SUFFIX,didiglobal.com
-DOMAIN-SUFFIX,udache.com
+host-suffix, didialift.com
+host-suffix, didiglobal.com
+host-suffix, udache.com
 
 # Douyu 斗鱼
-DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyuscdn.com
-DOMAIN-SUFFIX,douyutv.com
+host-suffix, douyu.com
+host-suffix, douyu.tv
+host-suffix, douyuscdn.com
+host-suffix, douyutv.com
 
 # Epic
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,epicgames.dev
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
+host-suffix, epicgames.com
+host-suffix, epicgames.dev
+host-suffix, helpshift.com
+host-suffix, paragon.com
+host-suffix, unrealengine.com
 
 # HuaWei
-DOMAIN-SUFFIX,dbankcdn.com
-DOMAIN-SUFFIX,hc-cdn.com
-DOMAIN-SUFFIX,hicloud.com
-DOMAIN-SUFFIX,hihonor.com
-DOMAIN-SUFFIX,huawei.com
-DOMAIN-SUFFIX,huaweicloud.com
-DOMAIN-SUFFIX,huaweishop.net
-DOMAIN-SUFFIX,hwccpc.com
-DOMAIN-SUFFIX,vmall.com
-DOMAIN-SUFFIX,vmallres.com
+host-suffix, dbankcdn.com
+host-suffix, hc-cdn.com
+host-suffix, hicloud.com
+host-suffix, hihonor.com
+host-suffix, huawei.com
+host-suffix, huaweicloud.com
+host-suffix, huaweishop.net
+host-suffix, hwccpc.com
+host-suffix, vmall.com
+host-suffix, vmallres.com
 
 # Iflytek 科大讯飞
-DOMAIN-SUFFIX,iflyink.com
-DOMAIN-SUFFIX,iflyrec.com
-DOMAIN-SUFFIX,iflytek.com
+host-suffix, iflyink.com
+host-suffix, iflyrec.com
+host-suffix, iflytek.com
 
 # Iqiyi
-DOMAIN-SUFFIX,71.am
-DOMAIN-SUFFIX,71edge.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qy.net
+host-suffix, 71.am
+host-suffix, 71edge.com
+host-suffix, iqiyi.com
+host-suffix, iqiyipic.com
+host-suffix, ppsimg.com
+host-suffix, qiyi.com
+host-suffix, qiyipic.com
+host-suffix, qy.net
 
 # JD
-DOMAIN-SUFFIX,360buy.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jcloudcs.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jdpay.com
-DOMAIN-SUFFIX,paipai.com
+host-suffix, 360buy.com
+host-suffix, 360buyimg.com
+host-suffix, jcloudcs.com
+host-suffix, jd.com
+host-suffix, jd.hk
+host-suffix, jdcloud.com
+host-suffix, jdpay.com
+host-suffix, paipai.com
 
 # Kingsoft
-DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,ksosoft.com
-DOMAIN-SUFFIX,ksyun.com
+host-suffix, iciba.com
+host-suffix, ksosoft.com
+host-suffix, ksyun.com
 
 # Kuaishou 快手
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,yximgs.com
+host-suffix, kuaishou.com
+host-suffix, yximgs.com
 
 # Meitu
-DOMAIN-SUFFIX,meitu.com
-DOMAIN-SUFFIX,meitudata.com
-DOMAIN-SUFFIX,meitustat.com
-DOMAIN-SUFFIX,meipai.com
+host-suffix, meitu.com
+host-suffix, meitudata.com
+host-suffix, meitustat.com
+host-suffix, meipai.com
 
 # LeTV 乐视
-DOMAIN-SUFFIX,le.com
-DOMAIN-SUFFIX,lecloud.com
-DOMAIN-SUFFIX,letv.com
-DOMAIN-SUFFIX,letvcloud.com
-DOMAIN-SUFFIX,letvimg.com
-DOMAIN-SUFFIX,letvlive.com
-DOMAIN-SUFFIX,letvstore.com
+host-suffix, le.com
+host-suffix, lecloud.com
+host-suffix, letv.com
+host-suffix, letvcloud.com
+host-suffix, letvimg.com
+host-suffix, letvlive.com
+host-suffix, letvstore.com
 
 # MGTV 芒果TV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,hunantv.com
-DOMAIN-SUFFIX,mgtv.com
+host-suffix, hitv.com
+host-suffix, hunantv.com
+host-suffix, mgtv.com
 
 # MI
-DOMAIN-SUFFIX,duokan.com
-DOMAIN-SUFFIX,mi-img.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-SUFFIX,xiaomicp.com
+host-suffix, duokan.com
+host-suffix, mi-img.com
+host-suffix, mi.com
+host-suffix, miui.com
+host-suffix, xiaomi.com
+host-suffix, xiaomi.net
+host-suffix, xiaomicp.com
 
 # NetEase
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,ydstatic.com
-DOMAIN-SUFFIX,youdao.com
+host-suffix, 126.com
+host-suffix, 126.net
+host-suffix, 127.net
+host-suffix, 163.com
+host-suffix, 163yun.com
+host-suffix, lofter.com
+host-suffix, netease.com
+host-suffix, ydstatic.com
+host-suffix, youdao.com
 
 # PPTV、PPLive
-DOMAIN-SUFFIX,pplive.com
-DOMAIN-SUFFIX,pptv.com
+host-suffix, pplive.com
+host-suffix, pptv.com
 
 # PDD 拼多多
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,yangkeduo.com
-host-suffix,pddpic.com, direct
+host-suffix, pinduoduo.com
+host-suffix, pinduoduo.net
+host-suffix, yangkeduo.com
+host-suffix,pddpic.com
 
 # Sina
-DOMAIN-SUFFIX,leju.com
-DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,sina.cn
-DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sinaapp.cn
-DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,weibocdn.cn
-DOMAIN-SUFFIX,xiaoka.tv
+host-suffix, leju.com
+host-suffix, miaopai.com
+host-suffix, sina.com
+host-suffix, sina.com.cn
+host-suffix, sina.cn
+host-suffix, sinaapp.com
+host-suffix, sinaapp.cn
+host-suffix, sinaimg.com
+host-suffix, sinaimg.cn
+host-suffix, weibo.com
+host-suffix, weibo.cn
+host-suffix, weibocdn.com
+host-suffix, weibocdn.cn
+host-suffix, xiaoka.tv
 
 # Sohu Sogo
-DOMAIN-SUFFIX,go2map.com
-DOMAIN-SUFFIX,sogo.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
-DOMAIN-SUFFIX,sohu-inc.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,sohuno.com
-DOMAIN-SUFFIX,sohurdc.com
-DOMAIN-SUFFIX,v-56.com
+host-suffix, go2map.com
+host-suffix, sogo.com
+host-suffix, sogou.com
+host-suffix, sogoucdn.com
+host-suffix, sohu-inc.com
+host-suffix, sohu.com
+host-suffix, sohucs.com
+host-suffix, sohuno.com
+host-suffix, sohurdc.com
+host-suffix, v-56.com
 
 # Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+host-suffix, playstation.com
+host-suffix, playstation.net
+host-suffix, playstationnetwork.com
+host-suffix, sony.com
+host-suffix, sonyentertainmentnetwork.com
 
 # SteamCN
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamchina.com
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dota2.wmsj.cn
-DOMAIN,wmsjsteam.com
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
+host-suffix, cm.steampowered.com
+host-suffix, steamcontent.com
+host-suffix, steamusercontent.com
+host-suffix, steamchina.com
+host, csgo.wmsj.cn
+host, dota2.wmsj.cn
+host, wmsjsteam.com
+host, dl.steam.clngaa.com
+host, dl.steam.ksyna.com
+host, st.dl.bscstorage.net
+host, st.dl.eccdnx.com
+host, st.dl.pinyuncloud.com
+host, steampipe.steamcontent.tnkjmec.com
+host, steampowered.com.8686c.com
+host, steamstatic.com.8686c.com
 
 # Tencent
-DOMAIN-SUFFIX,foxmail.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,myapp.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qqmail.com
-DOMAIN-SUFFIX,qqurl.com
-DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,tencentmind.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,weiyun.com
+host-suffix, foxmail.com
+host-suffix, gtimg.com
+host-suffix, idqqimg.com
+host-suffix, igamecj.com
+host-suffix, myapp.com
+host-suffix, myqcloud.com
+host-suffix, qq.com
+host-suffix, qqmail.com
+host-suffix, qqurl.com
+host-suffix, smtcdns.com
+host-suffix, smtcdns.net
+host-suffix, soso.com
+host-suffix, tencent-cloud.net
+host-suffix, tencent.com
+host-suffix, tencentmind.com
+host-suffix, tenpay.com
+host-suffix, wechat.com
+host-suffix, weixin.com
+host-suffix, weiyun.com
 
 # Vip 唯品会
-DOMAIN-SUFFIX,appsimg.com
-DOMAIN-SUFFIX,appvipshop.com
-DOMAIN-SUFFIX,vip.com
-DOMAIN-SUFFIX,vipstatic.com
+host-suffix, appsimg.com
+host-suffix, appvipshop.com
+host-suffix, vip.com
+host-suffix, vipstatic.com
 
 # Ximalaya 喜马拉雅
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xmcdn.com
+host-suffix, ximalaya.com
+host-suffix, xmcdn.com
 
 # Xunlei 迅雷
-DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,88cdn.com
-DOMAIN-SUFFIX,kanimg.com
-DOMAIN-SUFFIX,kankan.com
-DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,sandai.net
-DOMAIN-SUFFIX,thundercdn.com
-DOMAIN-SUFFIX,xunlei.com
+host-suffix, 00cdn.com
+host-suffix, 88cdn.com
+host-suffix, kanimg.com
+host-suffix, kankan.com
+host-suffix, p2cdn.com
+host-suffix, sandai.net
+host-suffix, thundercdn.com
+host-suffix, xunlei.com
 
 # YYeTs 人人影视
-DOMAIN-SUFFIX,got001.com
-DOMAIN-SUFFIX,p4pfile.com
-DOMAIN-SUFFIX,rrys.tv
-DOMAIN-SUFFIX,rrys2020.com
-DOMAIN-SUFFIX,yyets.com
-DOMAIN-SUFFIX,zimuzu.io
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmz001.com
-DOMAIN-SUFFIX,zmz002.com
-DOMAIN-SUFFIX,zmz003.com
-DOMAIN-SUFFIX,zmz004.com
-DOMAIN-SUFFIX,zmz2019.com
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
+host-suffix, got001.com
+host-suffix, p4pfile.com
+host-suffix, rrys.tv
+host-suffix, rrys2020.com
+host-suffix, yyets.com
+host-suffix, zimuzu.io
+host-suffix, zimuzu.tv
+host-suffix, zmz001.com
+host-suffix, zmz002.com
+host-suffix, zmz003.com
+host-suffix, zmz004.com
+host-suffix, zmz2019.com
+host-suffix, zmzapi.com
+host-suffix, zmzapi.net
+host-suffix, zmzfile.com
 
 # Private Tracker
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
-DOMAIN-SUFFIX,animebytes.tv
-DOMAIN-SUFFIX,animetorrents.me
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,beitai.pt
-DOMAIN-SUFFIX,bittorrent.com
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hd4fans.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hdzone.me
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,leaguehd.com
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,msg.vg
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,tju.pt
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,trontv.com
+host-keyword, announce
+host-keyword, torrent
+host-keyword, tracker
+host-suffix, animebytes.tv
+host-suffix, animetorrents.me
+host-suffix, awesome-hd.me
+host-suffix, beitai.pt
+host-suffix, bittorrent.com
+host-suffix, broadcasthe.net
+host-suffix, chdbits.co
+host-suffix, classix-unlimited.co.uk
+host-suffix, empornium.me
+host-suffix, gazellegames.net
+host-suffix, hd4fans.org
+host-suffix, hdchina.org
+host-suffix, hdhome.org
+host-suffix, hdsky.me
+host-suffix, hdtime.org
+host-suffix, hdzone.me
+host-suffix, icetorrent.org
+host-suffix, jpopsuki.eu
+host-suffix, keepfrds.com
+host-suffix, leaguehd.com
+host-suffix, m-team.cc
+host-suffix, madsrevolution.net
+host-suffix, msg.vg
+host-suffix, nanyangpt.com
+host-suffix, ncore.cc
+host-suffix, open.cd
+host-suffix, ourbits.club
+host-suffix, passthepopcorn.me
+host-suffix, privatehd.to
+host-suffix, pthome.net
+host-suffix, redacted.ch
+host-suffix, springsunday.net
+host-suffix, tjupt.org
+host-suffix, tju.pt
+host-suffix, totheglory.im
+host-suffix, trontv.com
 
 # TeamViewer
-DOMAIN-SUFFIX,teamviewer.com
-IP-CIDR,139.220.243.27/32,no-resolve
-IP-CIDR,172.16.102.56/32,no-resolve
-IP-CIDR,185.188.32.1/28,no-resolve
-IP-CIDR,221.226.128.146/32,no-resolve
-IP-CIDR6,2a0b:b580::/48,no-resolve
-IP-CIDR6,2a0b:b581::/48,no-resolve
-IP-CIDR6,2a0b:b582::/48,no-resolve
-IP-CIDR6,2a0b:b583::/48,no-resolve
+host-suffix, teamviewer.com
+ip-cidr, 139.220.243.27/32,no-resolve
+ip-cidr, 172.16.102.56/32,no-resolve
+ip-cidr, 185.188.32.1/28,no-resolve
+ip-cidr, 221.226.128.146/32,no-resolve
+ip6-cidr, 2a0b:b580::/48,no-resolve
+ip6-cidr, 2a0b:b581::/48,no-resolve
+ip6-cidr, 2a0b:b582::/48,no-resolve
+ip6-cidr, 2a0b:b583::/48,no-resolve
 
 # Public Direct CDN 公共直连
-#DOMAIN-SUFFIX,ajax.aspnetcdn.com
-#DOMAIN-SUFFIX,ajax.cloudflare.com
-#DOMAIN-SUFFIX,cdnjs.cloudflare.com
-#DOMAIN-SUFFIX,code.jquery.com
-DOMAIN-SUFFIX,baomitu.com
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,staticfile.org
-DOMAIN-SUFFIX,upaiyun.com
+#host-suffix, ajax.aspnetcdn.com
+#host-suffix, ajax.cloudflare.com
+#host-suffix, cdnjs.cloudflare.com
+#host-suffix, code.jquery.com
+host-suffix, baomitu.com
+host-suffix, bootcss.com
+host-suffix, jiasule.com
+host-suffix, staticfile.org
+host-suffix, upaiyun.com
 
 # AccelerateDirectSites
-DOMAIN-SUFFIX,10010.com
-DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,12306.com
-DOMAIN-SUFFIX,17173.com
-DOMAIN-SUFFIX,178.com
-DOMAIN-SUFFIX,17k.com
-DOMAIN-SUFFIX,360doc.com
-DOMAIN-SUFFIX,36kr.com
-DOMAIN-SUFFIX,3dmgame.com
-DOMAIN-SUFFIX,51cto.com
-DOMAIN-SUFFIX,51job.com
-DOMAIN-SUFFIX,51jobcdn.com
-DOMAIN-SUFFIX,56.com
-DOMAIN-SUFFIX,8686c.com
-DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,abercrombie.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,air-matters.io
-DOMAIN-SUFFIX,aixifan.com
-DOMAIN-SUFFIX,algocasts.io
-DOMAIN-SUFFIX,babytree.com
-DOMAIN-SUFFIX,babytreeimg.com
-DOMAIN-SUFFIX,baicizhan.com
-DOMAIN-SUFFIX,baidupan.com
-DOMAIN-SUFFIX,baike.com
-DOMAIN-SUFFIX,biqudu.com
-DOMAIN-SUFFIX,biquge.com
-DOMAIN-SUFFIX,bitauto.com
-DOMAIN-SUFFIX,c-ctrip.com
-DOMAIN-SUFFIX,camera360.com
-DOMAIN-SUFFIX,cdnmama.com
-DOMAIN-SUFFIX,chaoxing.com
-DOMAIN-SUFFIX,che168.com
-DOMAIN-SUFFIX,chinacache.net
-DOMAIN-SUFFIX,chinaso.com
-DOMAIN-SUFFIX,chinaz.com
-DOMAIN-SUFFIX,chinaz.net
-DOMAIN-SUFFIX,chuimg.com
-DOMAIN-SUFFIX,cibntv.net
-DOMAIN-SUFFIX,clouddn.com
-DOMAIN-SUFFIX,cloudxns.net
-DOMAIN-SUFFIX,cn163.net
-DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,cnki.net
-DOMAIN-SUFFIX,cnmstl.net
-DOMAIN-SUFFIX,coolapk.com
-DOMAIN-SUFFIX,coolapkmarket.com
-DOMAIN-SUFFIX,csdn.net
-DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,dangdang.com
-DOMAIN-SUFFIX,dfcfw.com
-DOMAIN-SUFFIX,dianping.com
-DOMAIN-SUFFIX,dilidili.wang
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,dpfile.com
-DOMAIN-SUFFIX,duowan.com
-DOMAIN-SUFFIX,dxycdn.com
-DOMAIN-SUFFIX,dytt8.net
-DOMAIN-SUFFIX,easou.com
-DOMAIN-SUFFIX,eastday.com
-DOMAIN-SUFFIX,eastmoney.com
-DOMAIN-SUFFIX,ecitic.com
-DOMAIN-SUFFIX,ewqcxz.com
-DOMAIN-SUFFIX,fang.com
-DOMAIN-SUFFIX,fantasy.tv
-DOMAIN-SUFFIX,feng.com
-DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,frdic.com
-DOMAIN-SUFFIX,fresh-ideas.cc
-DOMAIN-SUFFIX,ganji.com
-DOMAIN-SUFFIX,ganjistatic1.com
-DOMAIN-SUFFIX,geetest.com
-DOMAIN-SUFFIX,geilicdn.com
-DOMAIN-SUFFIX,ghpym.com
-DOMAIN-SUFFIX,godic.net
-DOMAIN-SUFFIX,guazi.com
-DOMAIN-SUFFIX,gwdang.com
-DOMAIN-SUFFIX,gzlzfm.com
-DOMAIN-SUFFIX,haibian.com
-DOMAIN-SUFFIX,haosou.com
-DOMAIN-SUFFIX,hollisterco.com
-DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,huajiao.com
-DOMAIN-SUFFIX,hupu.com
-DOMAIN-SUFFIX,huxiucdn.com
-DOMAIN-SUFFIX,huya.com
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,images-amazon.com
-DOMAIN-SUFFIX,infzm.com
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,it168.com
-DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,ixdzs.com
-DOMAIN-SUFFIX,jianguoyun.com
-DOMAIN-SUFFIX,jianshu.com
-DOMAIN-SUFFIX,jianshu.io
-DOMAIN-SUFFIX,jianshuapi.com
-DOMAIN-SUFFIX,jiathis.com
-DOMAIN-SUFFIX,jmstatic.com
-DOMAIN-SUFFIX,jumei.com
-DOMAIN-SUFFIX,kaola.com
-DOMAIN-SUFFIX,knewone.com
-DOMAIN-SUFFIX,koowo.com
-DOMAIN-SUFFIX,ksyungslb.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,lancdns.com
-DOMAIN-SUFFIX,landiannews.com
-DOMAIN-SUFFIX,lanzou.com
-DOMAIN-SUFFIX,lanzoui.com
-DOMAIN-SUFFIX,lanzoux.com
-DOMAIN-SUFFIX,lemicp.com
-DOMAIN-SUFFIX,letitfly.me
-DOMAIN-SUFFIX,lizhi.fm
-DOMAIN-SUFFIX,lizhi.io
-DOMAIN-SUFFIX,lizhifm.com
-DOMAIN-SUFFIX,luoo.net
-DOMAIN-SUFFIX,lvmama.com
-DOMAIN-SUFFIX,lxdns.com
-DOMAIN-SUFFIX,maoyan.com
-DOMAIN-SUFFIX,meilishuo.com
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,meituan.net
-DOMAIN-SUFFIX,meizu.com
-DOMAIN-SUFFIX,migucloud.com
-DOMAIN-SUFFIX,miguvideo.com
-DOMAIN-SUFFIX,mobike.com
-DOMAIN-SUFFIX,mogu.com
-DOMAIN-SUFFIX,mogucdn.com
-DOMAIN-SUFFIX,mogujie.com
-DOMAIN-SUFFIX,moji.com
-DOMAIN-SUFFIX,moke.com
-DOMAIN-SUFFIX,msstatic.com
-DOMAIN-SUFFIX,mubu.com
-DOMAIN-SUFFIX,myunlu.com
-DOMAIN-SUFFIX,nruan.com
-DOMAIN-SUFFIX,nuomi.com
-DOMAIN-SUFFIX,onedns.net
-DOMAIN-SUFFIX,oneplus.com
-DOMAIN-SUFFIX,onlinedown.net
-DOMAIN-SUFFIX,oppo.com
-DOMAIN-SUFFIX,oracle.com
-DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,polyv.net
-DOMAIN-SUFFIX,qbox.me
-DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,qcloudcdn.com
-DOMAIN-SUFFIX,qdaily.com
-DOMAIN-SUFFIX,qdmm.com
-DOMAIN-SUFFIX,qhimg.com
-DOMAIN-SUFFIX,qianqian.com
-DOMAIN-SUFFIX,qidian.com
-DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,qin.io
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,qiniucdn.com
-DOMAIN-SUFFIX,qiniudn.com
-DOMAIN-SUFFIX,qiushibaike.com
-DOMAIN-SUFFIX,quanmin.tv
-DOMAIN-SUFFIX,qunar.com
-DOMAIN-SUFFIX,qunarzz.com
-DOMAIN-SUFFIX,realme.com
-DOMAIN-SUFFIX,repaik.com
-DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,runoob.com
-DOMAIN-SUFFIX,sankuai.com
-DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,shumilou.net
-DOMAIN-SUFFIX,simplecd.me
-DOMAIN-SUFFIX,smzdm.com
-DOMAIN-SUFFIX,snwx.com
-DOMAIN-SUFFIX,soufunimg.com
-DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,startssl.com
-DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,synology.com
-DOMAIN-SUFFIX,taihe.com
-DOMAIN-SUFFIX,th-sjy.com
-DOMAIN-SUFFIX,tianqi.com
-DOMAIN-SUFFIX,tianqistatic.com
-DOMAIN-SUFFIX,tianyancha.com
-DOMAIN-SUFFIX,tianyaui.com
-DOMAIN-SUFFIX,tietuku.com
-DOMAIN-SUFFIX,tiexue.net
-DOMAIN-SUFFIX,tmiaoo.com
-DOMAIN-SUFFIX,trip.com
-DOMAIN-SUFFIX,ttmeiju.com
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,tuniu.com
-DOMAIN-SUFFIX,tuniucdn.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,upyun.com
-DOMAIN-SUFFIX,uxengine.net
-DOMAIN-SUFFIX,videocc.net
-DOMAIN-SUFFIX,vivo.com
-DOMAIN-SUFFIX,wandoujia.com
-DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,weico.cc
-DOMAIN-SUFFIX,weidian.com
-DOMAIN-SUFFIX,weiphone.com
-DOMAIN-SUFFIX,weiphone.net
-DOMAIN-SUFFIX,womai.com
-DOMAIN-SUFFIX,wscdns.com
-DOMAIN-SUFFIX,xdrig.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xiachufang.com
-DOMAIN-SUFFIX,xiaohongshu.com
-DOMAIN-SUFFIX,xiaojukeji.com
-DOMAIN-SUFFIX,xinhuanet.com
-DOMAIN-SUFFIX,xip.io
-DOMAIN-SUFFIX,xitek.com
-DOMAIN-SUFFIX,xiumi.us
-DOMAIN-SUFFIX,xslb.net
-DOMAIN-SUFFIX,xueqiu.com
-DOMAIN-SUFFIX,yach.me
-DOMAIN-SUFFIX,yeepay.com
-DOMAIN-SUFFIX,yhd.com
-DOMAIN-SUFFIX,yihaodianimg.com
-DOMAIN-SUFFIX,yinxiang.com
-DOMAIN-SUFFIX,yinyuetai.com
-DOMAIN-SUFFIX,yixia.com
-DOMAIN-SUFFIX,ys168.com
-DOMAIN-SUFFIX,yuewen.com
-DOMAIN-SUFFIX,yy.com
-DOMAIN-SUFFIX,yystatic.com
-DOMAIN-SUFFIX,zealer.com
-DOMAIN-SUFFIX,zhangzishi.cc
-DOMAIN-SUFFIX,zhanqi.tv
-DOMAIN-SUFFIX,zhaopin.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,zhongsou.com
-DOMAIN-SUFFIX,zhuihd.com
+host-suffix, 10010.com
+host-suffix, 115.com
+host-suffix, 12306.com
+host-suffix, 17173.com
+host-suffix, 178.com
+host-suffix, 17k.com
+host-suffix, 360doc.com
+host-suffix, 36kr.com
+host-suffix, 3dmgame.com
+host-suffix, 51cto.com
+host-suffix, 51job.com
+host-suffix, 51jobcdn.com
+host-suffix, 56.com
+host-suffix, 8686c.com
+host-suffix, abchina.com
+host-suffix, abercrombie.com
+host-suffix, acfun.tv
+host-suffix, air-matters.com
+host-suffix, air-matters.io
+host-suffix, aixifan.com
+host-suffix, algocasts.io
+host-suffix, babytree.com
+host-suffix, babytreeimg.com
+host-suffix, baicizhan.com
+host-suffix, baidupan.com
+host-suffix, baike.com
+host-suffix, biqudu.com
+host-suffix, biquge.com
+host-suffix, bitauto.com
+host-suffix, c-ctrip.com
+host-suffix, camera360.com
+host-suffix, cdnmama.com
+host-suffix, chaoxing.com
+host-suffix, che168.com
+host-suffix, chinacache.net
+host-suffix, chinaso.com
+host-suffix, chinaz.com
+host-suffix, chinaz.net
+host-suffix, chuimg.com
+host-suffix, cibntv.net
+host-suffix, clouddn.com
+host-suffix, cloudxns.net
+host-suffix, cn163.net
+host-suffix, cnblogs.com
+host-suffix, cnki.net
+host-suffix, cnmstl.net
+host-suffix, coolapk.com
+host-suffix, coolapkmarket.com
+host-suffix, csdn.net
+host-suffix, ctrip.com
+host-suffix, dangdang.com
+host-suffix, dfcfw.com
+host-suffix, dianping.com
+host-suffix, dilidili.wang
+host-suffix, douban.com
+host-suffix, doubanio.com
+host-suffix, dpfile.com
+host-suffix, duowan.com
+host-suffix, dxycdn.com
+host-suffix, dytt8.net
+host-suffix, easou.com
+host-suffix, eastday.com
+host-suffix, eastmoney.com
+host-suffix, ecitic.com
+host-suffix, ewqcxz.com
+host-suffix, fang.com
+host-suffix, fantasy.tv
+host-suffix, feng.com
+host-suffix, fengkongcloud.com
+host-suffix, fir.im
+host-suffix, frdic.com
+host-suffix, fresh-ideas.cc
+host-suffix, ganji.com
+host-suffix, ganjistatic1.com
+host-suffix, geetest.com
+host-suffix, geilicdn.com
+host-suffix, ghpym.com
+host-suffix, godic.net
+host-suffix, guazi.com
+host-suffix, gwdang.com
+host-suffix, gzlzfm.com
+host-suffix, haibian.com
+host-suffix, haosou.com
+host-suffix, hollisterco.com
+host-suffix, hongxiu.com
+host-suffix, huajiao.com
+host-suffix, hupu.com
+host-suffix, huxiucdn.com
+host-suffix, huya.com
+host-suffix, ifeng.com
+host-suffix, ifengimg.com
+host-suffix, images-amazon.com
+host-suffix, infzm.com
+host-suffix, ipip.net
+host-suffix, it168.com
+host-suffix, ithome.com
+host-suffix, ixdzs.com
+host-suffix, jianguoyun.com
+host-suffix, jianshu.com
+host-suffix, jianshu.io
+host-suffix, jianshuapi.com
+host-suffix, jiathis.com
+host-suffix, jmstatic.com
+host-suffix, jumei.com
+host-suffix, kaola.com
+host-suffix, knewone.com
+host-suffix, koowo.com
+host-suffix, ksyungslb.com
+host-suffix, kuaidi100.com
+host-suffix, kugou.com
+host-suffix, lancdns.com
+host-suffix, landiannews.com
+host-suffix, lanzou.com
+host-suffix, lanzoui.com
+host-suffix, lanzoux.com
+host-suffix, lemicp.com
+host-suffix, letitfly.me
+host-suffix, lizhi.fm
+host-suffix, lizhi.io
+host-suffix, lizhifm.com
+host-suffix, luoo.net
+host-suffix, lvmama.com
+host-suffix, lxdns.com
+host-suffix, maoyan.com
+host-suffix, meilishuo.com
+host-suffix, meituan.com
+host-suffix, meituan.net
+host-suffix, meizu.com
+host-suffix, migucloud.com
+host-suffix, miguvideo.com
+host-suffix, mobike.com
+host-suffix, mogu.com
+host-suffix, mogucdn.com
+host-suffix, mogujie.com
+host-suffix, moji.com
+host-suffix, moke.com
+host-suffix, msstatic.com
+host-suffix, mubu.com
+host-suffix, myunlu.com
+host-suffix, nruan.com
+host-suffix, nuomi.com
+host-suffix, onedns.net
+host-suffix, oneplus.com
+host-suffix, onlinedown.net
+host-suffix, oppo.com
+host-suffix, oracle.com
+host-suffix, oschina.net
+host-suffix, ourdvs.com
+host-suffix, polyv.net
+host-suffix, qbox.me
+host-suffix, qcloud.com
+host-suffix, qcloudcdn.com
+host-suffix, qdaily.com
+host-suffix, qdmm.com
+host-suffix, qhimg.com
+host-suffix, qianqian.com
+host-suffix, qidian.com
+host-suffix, qihucdn.com
+host-suffix, qin.io
+host-suffix, qiniu.com
+host-suffix, qiniucdn.com
+host-suffix, qiniudn.com
+host-suffix, qiushibaike.com
+host-suffix, quanmin.tv
+host-suffix, qunar.com
+host-suffix, qunarzz.com
+host-suffix, realme.com
+host-suffix, repaik.com
+host-suffix, ruguoapp.com
+host-suffix, runoob.com
+host-suffix, sankuai.com
+host-suffix, segmentfault.com
+host-suffix, sf-express.com
+host-suffix, shumilou.net
+host-suffix, simplecd.me
+host-suffix, smzdm.com
+host-suffix, snwx.com
+host-suffix, soufunimg.com
+host-suffix, sspai.com
+host-suffix, startssl.com
+host-suffix, suning.com
+host-suffix, synology.com
+host-suffix, taihe.com
+host-suffix, th-sjy.com
+host-suffix, tianqi.com
+host-suffix, tianqistatic.com
+host-suffix, tianyancha.com
+host-suffix, tianyaui.com
+host-suffix, tietuku.com
+host-suffix, tiexue.net
+host-suffix, tmiaoo.com
+host-suffix, trip.com
+host-suffix, ttmeiju.com
+host-suffix, tudou.com
+host-suffix, tuniu.com
+host-suffix, tuniucdn.com
+host-suffix, umengcloud.com
+host-suffix, upyun.com
+host-suffix, uxengine.net
+host-suffix, videocc.net
+host-suffix, vivo.com
+host-suffix, wandoujia.com
+host-suffix, weather.com
+host-suffix, weico.cc
+host-suffix, weidian.com
+host-suffix, weiphone.com
+host-suffix, weiphone.net
+host-suffix, womai.com
+host-suffix, wscdns.com
+host-suffix, xdrig.com
+host-suffix, xhscdn.com
+host-suffix, xiachufang.com
+host-suffix, xiaohongshu.com
+host-suffix, xiaojukeji.com
+host-suffix, xinhuanet.com
+host-suffix, xip.io
+host-suffix, xitek.com
+host-suffix, xiumi.us
+host-suffix, xslb.net
+host-suffix, xueqiu.com
+host-suffix, yach.me
+host-suffix, yeepay.com
+host-suffix, yhd.com
+host-suffix, yihaodianimg.com
+host-suffix, yinxiang.com
+host-suffix, yinyuetai.com
+host-suffix, yixia.com
+host-suffix, ys168.com
+host-suffix, yuewen.com
+host-suffix, yy.com
+host-suffix, yystatic.com
+host-suffix, zealer.com
+host-suffix, zhangzishi.cc
+host-suffix, zhanqi.tv
+host-suffix, zhaopin.com
+host-suffix, zhihu.com
+host-suffix, zhimg.com
+host-suffix, zhongsou.com
+host-suffix, zhuihd.com
