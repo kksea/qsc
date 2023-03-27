@@ -22,6 +22,40 @@ host-suffix, tumbex.com, global
 host-suffix, twdvd.com, global
 host-suffix, unsplash.com, global
 
+# 机场订阅
+# Armoro
+host-keyword, 81p41pkq35, global
+# 色色小站
+host-keyword, zimoceng, global
+# 花云
+host-keyword, huacloud, global
+# TAG
+host-keyword, tagcdnsub, global
+# Uni
+host-keyword, cmrn, global
+# 青柠
+host-keyword, lime, global
+# Ccloud
+host-keyword, ccemby, global
+# Miaona
+host-keyword, miaona, global
+# 一元
+host-keyword, 4gq62f52gdss, global
+# EF
+host-keyword, efshop, global
+# 三分
+host-keyword, sanfen, global
+# 云达
+host-keyword, fq233, global
+# 八方
+host-keyword, bfyun, global
+# 雨燕
+host-keyword, yuyan, global
+# Saiki
+host-keyword, saiki, global
+# wget
+host-keyword, wgetcloud, global
+
 # 国外域名
 host-suffix, eu, global
 host-suffix, hk, global
