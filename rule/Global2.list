@@ -1,7 +1,6 @@
-# 代理列表
-
 # MyList && Other
-host-suffix, quantumult.app, Outside, global
+host-suffix, digicert.com, global
+host-suffix, quantumult.app, global
 host-suffix, 1password.com, global
 host-suffix, adguard.org, global
 host-suffix, bit.no.com, global
