@@ -1,4 +1,5 @@
 # MyList && Other
+host-suffix, cloudflare-dns.com, Outside
 host-suffix, digicert.com, global
 host-suffix, quantumult.app, global
 host-suffix, 1password.com, global
