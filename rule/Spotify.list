@@ -1,21 +1,22 @@
-user-agent,Spotify*,Spotify
-host-wildcard,*-spotify-com,Spotify
-host-suffix,pscdn.co,Spotify
-host-suffix,scdn.co,Spotify
-host-suffix,spotify.com,Spotify
-host-suffix,spoti.fi,Spotify
-host-suffix,spotifycdn.net,Spotify
-host-suffix,audio-ak-spotify-com.akamaized.net,Spotify
-host-suffix,byspotify.com,Spotify
-host-suffix,heads4-ak-spotify-com.akamaized.net,Spotify
-host-suffix,spotify-com.akamaized.net,Spotify
-host-suffix,spotify-everywhere.com,Spotify
-host-suffix,spotify.design,Spotify
-host-suffix,spotifycdn.com,Spotify
-host-suffix,spotifycharts.com,Spotify
-host-suffix,spotifycodes.com,Spotify
-host-suffix,spotifyforbrands.com,Spotify
-host-suffix,spotifyjobs.com,Spotify
-ip-cidr,35.186.224.47/32,Spotify
+# Spotify
+USER-AGENT, Spotify*
+HOST-WILDCARD, *-spotify-com
+HOST-SUFFIX, pscdn.co
+HOST-SUFFIX, scdn.co
+HOST-SUFFIX, spotify.com
+HOST-SUFFIX, spoti.fi
+HOST-SUFFIX, spotifycdn.net
+HOST-SUFFIX, audio-ak-spotify-com.akamaized.net
+HOST-SUFFIX, byspotify.com
+HOST-SUFFIX, heads4-ak-spotify-com.akamaized.net
+HOST-SUFFIX, spotify-com.akamaized.net
+HOST-SUFFIX, spotify-everywhere.com
+HOST-SUFFIX, spotify.design
+HOST-SUFFIX, spotifycdn.com
+HOST-SUFFIX, spotifycharts.com
+HOST-SUFFIX, spotifycodes.com
+HOST-SUFFIX, spotifyforbrands.com
+HOST-SUFFIX, spotifyjobs.com
+IP-CIDR, 35.186.224.47/32
 # 直连修复
-host-suffix,ap.spotify.com,DIRECT
+HOST-SUFFIX, ap.spotify.com

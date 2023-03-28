@@ -1,126 +1,118 @@
-# Other
-host-suffix,msn.cn,Microsoft
-host-suffix,msn.com,Microsoft
-host-suffix,aadrm.com,Microsoft
-host-suffix,acompli.com,Microsoft
-host-suffix,acompli.net,Microsoft
-host-suffix,akadns.net,Microsoft
-host-suffix,aspnetcdn.com,Microsoft
-host-suffix,assets-yammer.com,Microsoft
-host-suffix,azure.com,Microsoft
-host-suffix,azure.net,Microsoft
-host-suffix,azureedge.net,Microsoft
-host-suffix,azureiotcentral.com,Microsoft
-host-suffix,azurerms.com,Microsoft
-host-suffix,cloudapp.net,Microsoft
-host-suffix,cloudappsecurity.com,Microsoft
-host-suffix,gfx.ms,Microsoft
-host-suffix,live.com,Microsoft
-host-suffix,live.net,Microsoft
-host-suffix,lync.com,Microsoft
-host-suffix,msappproxy.net,Microsoft
-host-suffix,msauth.net,Microsoft
-host-suffix,msauthimages.net,Microsoft
-host-suffix,msft.net,Microsoft
-host-suffix,msftauth.net,Microsoft
-host-suffix,msftauthimages.net,Microsoft
-host-suffix,msftidentity.com,Microsoft
-host-suffix,msidentity.com,Microsoft
-host-suffix,msocdn.com,Microsoft
-host-suffix,msocsp.com,Microsoft
-host-suffix,mstea.ms,Microsoft
-host-suffix,oaspapps.com,Microsoft
-host-suffix,office.com,Microsoft
-host-suffix,office.net,Microsoft
-host-suffix,officeppe.net,Microsoft
-host-suffix,omniroot.com,Microsoft
-host-suffix,onedrive.com,Microsoft
-host-suffix,onenote.com,Microsoft
-host-suffix,onenote.net,Microsoft
-host-suffix,onestore.ms,Microsoft
-host-suffix,phonefactor.net,Microsoft
-host-suffix,public-trust.com,Microsoft
-host-suffix,sfbassets.com,Microsoft
-host-suffix,sfx.ms,Microsoft
-host-suffix,sharepoint.com,Microsoft
-host-suffix,sharepointonline.com,Microsoft
-host-suffix,skype.com,Microsoft
-host-suffix,skypeassets.com,Microsoft
-host-suffix,skypeforbusiness.com,Microsoft
-host-suffix,staffhub.ms,Microsoft
-host-suffix,svc.ms,Microsoft
-host-suffix,sway-cdn.com,Microsoft
-host-suffix,sway-extensions.com,Microsoft
-host-suffix,sway.com,Microsoft
-host-suffix,trafficmanager.net,Microsoft
-host-suffix,uservoice.com,Microsoft
-host-suffix,virtualearth.net,Microsoft
-host-suffix,visualstudio.com,Microsoft
-host-suffix,windows-ppe.net,Microsoft
-host-suffix,windows.com,Microsoft
-host-suffix,windows.net,Microsoft
-host-suffix,windowsazure.com,Microsoft
-host-suffix,windowsupdate.com,Microsoft
-host-suffix,wunderlist.com,Microsoft
-host-suffix,yammer.com,Microsoft
-host-suffix,yammerusercontent.com
-host-suffix,appcenter.ms,Microsoft
-host-keyword,microsoft,Microsoft
-host-keyword,1drv,Microsoft
-host-keyword,hotmail,Microsoft
-host-keyword,outlook,Microsoft
-
-# Microsoft CDNs
-host-suffix,aka.ms,Microsoft
-host-suffix,msecnd.net,Microsoft
-host-suffix,spoprod-a.akamaihd.net,Microsoft
-host-suffix,g.akamaiedge.net,Microsoft
-host-suffix,a767.dscg3.akamai.net,Microsoft
-host-suffix,cs11.wpc.v0cdn.net,Microsoft
-host-suffix,cs9.wac.phicdn.net,Microsoft
-host-suffix,b.akamaiedge.net,Microsoft
-host-suffix,vip5.afdorigin-prod-am02.afdogw.com,Microsoft
-host-suffix,akamaized.net,Microsoft
-
-# Bing
-HOST-SUFFIX,bing.com,Bing
-HOST-SUFFIX,bing.com.cn,Bing
-HOST-SUFFIX,bing.net,Bing
-HOST-SUFFIX,bingads.com,Bing
-HOST-SUFFIX,bingagencyawards.com,Bing
-HOST-SUFFIX,bingapistatistics.com,Bing
-HOST-SUFFIX,bingsandbox.com,Bing
-HOST-SUFFIX,bingvisualsearch.com,Bing
-HOST-SUFFIX,bingworld.com,Bing
-HOST-SUFFIX,bluehatnights.com,Bing
-HOST-SUFFIX,dictate.ms,Bing
-HOST-SUFFIX,ditu.live.com,Bing
-HOST-SUFFIX,flipwithsurface.com,Bing
-HOST-SUFFIX,masalladeloslimites.com,Bing
-HOST-SUFFIX,microsoft-give.com,Bing
-HOST-SUFFIX,microsoftcloudsummit.com,Bing
-HOST-SUFFIX,microsoftdiplomados.com,Bing
-HOST-SUFFIX,microsoftlatamholiday.com,Bing
-HOST-SUFFIX,microsoftmxfilantropia.com,Bing
-HOST-SUFFIX,microsoftpartnersolutions.com,Bing
-HOST-SUFFIX,msunlimitedcloudsummit.com,Bing
-HOST-SUFFIX,office365love.com,Bing
-HOST-SUFFIX,office365tw.com,Bing
-HOST-SUFFIX,renovacionoffice.com,Bing
-HOST-SUFFIX,sprinklesapp.com,Bing
-
-# Edge
-HOST,edge.activity.windows.com,MicrosoftEdge
-HOST,edge.microsoft.com,MicrosoftEdge
-HOST,iecvlist.microsoft.com,MicrosoftEdge
-HOST,msedge.api.cdp.microsoft.com,MicrosoftEdge
-
-# Office 365
-host-keyword,Office,Microsoft
-host-suffix,o365cn.com,Microsoft
-host-suffix,o365files.cn,Microsoft
-host-suffix,o365weve-dev.com,Microsoft
-host-suffix,o365weve-ppe.com,Microsoft
-host-suffix,o365weve.com,Microsoft
-host-suffix,office365.com,Microsoft
-host-suffix,officedev.cn,Microsoft
+# Microsoft
+HOST, edge.activity.windows.com
+HOST, edge.microsoft.com
+HOST, iecvlist.microsoft.com
+HOST, msedge.api.cdp.microsoft.com
+HOST-SUFFIX, msn.cn
+HOST-SUFFIX, msn.com
+HOST-SUFFIX, aadrm.com
+HOST-SUFFIX, acompli.com
+HOST-SUFFIX, acompli.net
+HOST-SUFFIX, akadns.net
+HOST-SUFFIX, aspnetcdn.com
+HOST-SUFFIX, assets-yammer.com
+HOST-SUFFIX, azure.com
+HOST-SUFFIX, azure.net
+HOST-SUFFIX, azureedge.net
+HOST-SUFFIX, azureiotcentral.com
+HOST-SUFFIX, azurerms.com
+HOST-SUFFIX, cloudapp.net
+HOST-SUFFIX, cloudappsecurity.com
+HOST-SUFFIX, gfx.ms
+HOST-SUFFIX, live.com
+HOST-SUFFIX, live.net
+HOST-SUFFIX, lync.com
+HOST-SUFFIX, msappproxy.net
+HOST-SUFFIX, msauth.net
+HOST-SUFFIX, msauthimages.net
+HOST-SUFFIX, msft.net
+HOST-SUFFIX, msftauth.net
+HOST-SUFFIX, msftauthimages.net
+HOST-SUFFIX, msftidentity.com
+HOST-SUFFIX, msidentity.com
+HOST-SUFFIX, msocdn.com
+HOST-SUFFIX, msocsp.com
+HOST-SUFFIX, mstea.ms
+HOST-SUFFIX, oaspapps.com
+HOST-SUFFIX, office.com
+HOST-SUFFIX, office.net
+HOST-SUFFIX, officeppe.net
+HOST-SUFFIX, omniroot.com
+HOST-SUFFIX, onedrive.com
+HOST-SUFFIX, onenote.com
+HOST-SUFFIX, onenote.net
+HOST-SUFFIX, onestore.ms
+HOST-SUFFIX, phonefactor.net
+HOST-SUFFIX, public-trust.com
+HOST-SUFFIX, sfbassets.com
+HOST-SUFFIX, sfx.ms
+HOST-SUFFIX, sharepoint.com
+HOST-SUFFIX, sharepointonline.com
+HOST-SUFFIX, skype.com
+HOST-SUFFIX, skypeassets.com
+HOST-SUFFIX, skypeforbusiness.com
+HOST-SUFFIX, staffhub.ms
+HOST-SUFFIX, svc.ms
+HOST-SUFFIX, sway-cdn.com
+HOST-SUFFIX, sway-extensions.com
+HOST-SUFFIX, sway.com
+HOST-SUFFIX, trafficmanager.net
+HOST-SUFFIX, uservoice.com
+HOST-SUFFIX, virtualearth.net
+HOST-SUFFIX, visualstudio.com
+HOST-SUFFIX, windows-ppe.net
+HOST-SUFFIX, windows.com
+HOST-SUFFIX, windows.net
+HOST-SUFFIX, windowsazure.com
+HOST-SUFFIX, windowsupdate.com
+HOST-SUFFIX, wunderlist.com
+HOST-SUFFIX, yammer.com
+HOST-SUFFIX, yammerusercontent.com
+HOST-SUFFIX, appcenter.ms
+HOST-SUFFIX, aka.ms
+HOST-SUFFIX, msecnd.net
+HOST-SUFFIX, spoprod-a.akamaihd.net
+HOST-SUFFIX, g.akamaiedge.net
+HOST-SUFFIX, a767.dscg3.akamai.net
+HOST-SUFFIX, cs11.wpc.v0cdn.net
+HOST-SUFFIX, cs9.wac.phicdn.net
+HOST-SUFFIX, b.akamaiedge.net
+HOST-SUFFIX, vip5.afdorigin-prod-am02.afdogw.com
+HOST-SUFFIX, akamaized.net
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,bing.com.cn
+HOST-SUFFIX,bing.net
+HOST-SUFFIX,bingads.com
+HOST-SUFFIX,bingagencyawards.com
+HOST-SUFFIX,bingapistatistics.com
+HOST-SUFFIX,bingsandbox.com
+HOST-SUFFIX,bingvisualsearch.com
+HOST-SUFFIX,bingworld.com
+HOST-SUFFIX,bluehatnights.com
+HOST-SUFFIX,dictate.ms
+HOST-SUFFIX,ditu.live.com
+HOST-SUFFIX,flipwithsurface.com
+HOST-SUFFIX,masalladeloslimites.com
+HOST-SUFFIX,microsoft-give.com
+HOST-SUFFIX,microsoftcloudsummit.com
+HOST-SUFFIX,microsoftdiplomados.com
+HOST-SUFFIX,microsoftlatamholiday.com
+HOST-SUFFIX,microsoftmxfilantropia.com
+HOST-SUFFIX,microsoftpartnersolutions.com
+HOST-SUFFIX,msunlimitedcloudsummit.com
+HOST-SUFFIX,office365love.com
+HOST-SUFFIX,office365tw.com
+HOST-SUFFIX,renovacionoffice.com
+HOST-SUFFIX,sprinklesapp.com
+HOST-SUFFIX, o365cn.com
+HOST-SUFFIX, o365files.cn
+HOST-SUFFIX, o365weve-dev.com
+HOST-SUFFIX, o365weve-ppe.com
+HOST-SUFFIX, o365weve.com
+HOST-SUFFIX, office365.com
+HOST-SUFFIX, officedev.cn
+HOST-KEYWORD, microsoft
+HOST-KEYWORD, 1drv
+HOST-KEYWORD, hotmail
+HOST-KEYWORD, outlook
+HOST-KEYWORD, Office
