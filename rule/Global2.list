@@ -1,4 +1,6 @@
 # MyList && Other
+host-suffix, sectigo.com, global
+host-suffix, gravatar, global
 host-suffix, snapkit.com, global
 host-suffix, lencr.org, global
 host-suffix, goofy-cdn.com, global
@@ -82,6 +84,7 @@ host-keyword, dropbox, global
 host-keyword, facebook, global
 host-keyword, fbcdn, global
 host-keyword, github, global
+host-keyword, gitlab, global
 host-keyword, gmail, global
 host-keyword, google, global
 host-keyword, instagram, global
@@ -237,8 +240,6 @@ host-suffix, docker.com, global
 host-suffix, elastic.co, global
 host-suffix, elastic.com, global
 host-suffix, gcr.io, global
-host-suffix, gitlab.com, global
-host-suffix, gitlab.io, global
 host-suffix, jitpack.io, global
 host-suffix, maven.org, global
 host-suffix, medium.com, global
