@@ -1,5 +1,10 @@
 # MyList && Other
-host-suffix, cloudflare-dns.com, Outside
+host-suffix, snapkit.com, global
+host-suffix, lencr.org, global
+host-suffix, goofy-cdn.com, global
+host-suffix, fbsbx.com, global
+host-suffix, appsflyer.com, global
+host-suffix, cloudflare-dns.com, global
 host-suffix, digicert.com, global
 host-suffix, quantumult.app, global
 host-suffix, 1password.com, global
@@ -15,7 +20,6 @@ host-suffix, inoreader.com, global
 host-suffix, ip138.com, global
 host-suffix, linkedin.com, global
 host-suffix, myteamspeak.com, global
-host-suffix, notion.so, global
 host-suffix, ping.pe, global
 host-suffix, reddit.com, global
 host-suffix, teddysun.com, global
@@ -88,6 +92,8 @@ host-keyword, telegram, global
 host-keyword, twitter, global
 host-keyword, whatsapp, global
 host-keyword, youtube, global
+host-keyword, yahoo, global
+host-keyword, notion, global
 
 # Top Blocked Sites
 host-suffix, 4sqi.net, global
