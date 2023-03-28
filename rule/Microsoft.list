@@ -3,6 +3,7 @@ HOST, edge.activity.windows.com
 HOST, edge.microsoft.com
 HOST, iecvlist.microsoft.com
 HOST, msedge.api.cdp.microsoft.com
+HOST-SUFFIX, bingapis.com
 HOST-SUFFIX, msn.cn
 HOST-SUFFIX, msn.com
 HOST-SUFFIX, aadrm.com
