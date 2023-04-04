@@ -1,0 +1,10 @@
+HOST-SUFFIX, ai.com
+HOST-SUFFIX, openai.com
+HOST-SUFFIX, vimeo.com
+HOST-SUFFIX, vimeocdn.com
+HOST-SUFFIX, hcaptcha.com
+HOST-SUFFIX, akamaized.com
+HOST-SUFFIX, identrust.com
+HOST, cdn.auth0.com
+HOST, openaiapi-site.azureedge.net
+HOST, challenges.cloudflare.com
