@@ -2,6 +2,7 @@
 # MyList
 HOST, yunyunyun.vip
 HOST-SUFFIX, gdtimg.com
+HOST-SUFFIX, leiyingchuanmei.com
 HOST-SUFFIX, tdnsv6.com
 HOST-SUFFIX, duxiaomanfintech.com
 HOST-SUFFIX, duxiaoman.com
@@ -84,23 +85,23 @@ HOST-SUFFIX, xn--55qx5d
 HOST-SUFFIX, xn--io0a7i
 
 # 中国国内常见域名关键词直连
-HOST-keyword, 360buy
-HOST-keyword, alicdn
-HOST-keyword, alimama
-HOST-keyword, alipay
-HOST-keyword, alibaba
-HOST-keyword, appzapp
-HOST-keyword, baidupcs
-HOST-keyword, bilibili
-HOST-keyword, ccgslb
-HOST-keyword, chinacache
-HOST-keyword, duobao
-HOST-keyword, jdpay
-HOST-keyword, moke
-HOST-keyword, qhimg
-HOST-keyword, vpimg
-HOST-keyword, xiami
-HOST-keyword, xiaomi
+HOST-KEYWORD, 360buy
+HOST-KEYWORD, alicdn
+HOST-KEYWORD, alimama
+HOST-KEYWORD, alipay
+HOST-KEYWORD, alibaba
+HOST-KEYWORD, appzapp
+HOST-KEYWORD, baidupcs
+HOST-KEYWORD, bilibili
+HOST-KEYWORD, ccgslb
+HOST-KEYWORD, chinacache
+HOST-KEYWORD, duobao
+HOST-KEYWORD, jdpay
+HOST-KEYWORD, moke
+HOST-KEYWORD, qhimg
+HOST-KEYWORD, vpimg
+HOST-KEYWORD, xiami
+HOST-KEYWORD, xiaomi
 
 # 360
 HOST-SUFFIX, 360.com
@@ -473,9 +474,9 @@ HOST-SUFFIX, zmzapi.net
 HOST-SUFFIX, zmzfile.com
 
 # Private Tracker
-HOST-keyword, announce
-HOST-keyword, torrent
-HOST-keyword, tracker
+HOST-KEYWORD, announce
+HOST-KEYWORD, torrent
+HOST-KEYWORD, tracker
 HOST-SUFFIX, animebytes.tv
 HOST-SUFFIX, animetorrents.me
 HOST-SUFFIX, awesome-hd.me

@@ -1,5 +1,14 @@
 # MyList && Other
 HOST-SUFFIX, cloudflare.com
+HOST-SUFFIX, tubemaxapp.com
+HOST-SUFFIX, nicegram.app
+HOST-SUFFIX, mbrx.app
+HOST-SUFFIX, ipjiance.com
+HOST-SUFFIX, branch.io
+HOST-SUFFIX, x6g.com
+HOST-SUFFIX, revenuecat.com
+HOST-SUFFIX, statsig.com
+HOST-SUFFIX, tubemaxapp.com
 HOST-SUFFIX, clarity.ms
 HOST-SUFFIX, scorecardresearch.com
 HOST-SUFFIX, sectigo.com
@@ -33,6 +42,8 @@ HOST-SUFFIX, twdvd.com
 HOST-SUFFIX, unsplash.com
 
 # 机场订阅
+# xsus
+HOST-KEYWORD, xsus
 # Armoro
 HOST-KEYWORD, 81p41pkq35
 # 色色小站
@@ -81,6 +92,7 @@ HOST-SUFFIX, uk
 HOST-KEYWORD, 1e100
 HOST-KEYWORD, abema
 HOST-KEYWORD, appledaily
+HOST-KEYWORD, amazon
 HOST-KEYWORD, avtb
 HOST-KEYWORD, beetalk
 HOST-KEYWORD, blogspot
@@ -214,9 +226,9 @@ HOST-SUFFIX, vine.co
 HOST-SUFFIX, vox-cdn.com
 
 # Amazon
-HOST-SUFFIX, amazon.co.jp
-HOST-SUFFIX, amazon.com
-HOST-SUFFIX, amazonaws.com
+#HOST-SUFFIX, amazon.co.jp
+#HOST-SUFFIX, amazon.com
+#HOST-SUFFIX, amazonaws.com
 IP-CIDR, 13.32.0.0/15
 IP-CIDR, 13.35.0.0/17
 IP-CIDR, 18.184.0.0/15
