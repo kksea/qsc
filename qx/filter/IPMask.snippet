@@ -1,9 +1,4 @@
-# BiliBili, 微博, 百度贴吧, 微信
-# 知乎, 抖音, 头条, 快手, 小红书
-# 文叔叔, 豆瓣, 酷安, TapTap
-# 网易大神, 虎牙, 懂球帝, NAG
-# 小米社区, 网易云音乐, 斗鱼, 米游社
-# 豆瓣
+# IPMask
 
 # BiliBili
 HOST-SUFFIX, biliapi.net, IPMask
@@ -21,7 +16,7 @@ HOST-SUFFIX, bilibili.com, IPMask
 HOST-SUFFIX, im9.com, IPMask
 HOST-SUFFIX, acg.tv, IPMask
 HOST-SUFFIX, biligame.com, IPMask
-IP-CIDR, 203.107.1.0/24,REJECT, IPMask
+IP-CIDR, 203.107.1.0/24, IPMask
 
 # 微博
 HOST-SUFFIX, weibo.cn, IPMask
@@ -53,8 +48,8 @@ HOST, mp.weixin.qq.com, IPMask
 # 知乎
 HOST-SUFFIX, zhihu.com, IPMask
 IP-CIDR, 103.41.167.0/24, IPMask
-IP-CIDR, 118.89.204.198/23,REJECT, IPMask
-IP6-CIDR, 2402:4e00:1200:ed00:0:9089:6dac:96b6/40,REJECT, IPMask
+IP-CIDR, 118.89.204.198/23, IPMask
+IP6-CIDR, 2402:4e00:1200:ed00:0:9089:6dac:96b6/40, IPMask
 
 # 抖音
 HOST-KEYWORD, core-c-lq, IPMask
@@ -75,9 +70,6 @@ HOST, sso.douyin.com, IPMask
 HOST, www.douyin.com, IPMask
 HOST-SUFFIX, snssdk.com, IPMask
 
-# 头条
-HOST-SUFFIX, toutiaoapi.com, IPMask
-
 # 快手
 HOST-SUFFIX, gifshow.com, IPMask
 HOST-SUFFIX, ksapisrv.com, IPMask
@@ -87,34 +79,11 @@ HOST-SUFFIX, xiaohongshu.com, IPMask
 HOST, keylol.com, IPMask
 HOST-SUFFIX, ixigua.com, IPMask
 
-# 文叔叔
-HOST, www.wenshushu.cn, IPMask
-IP-CIDR, 119.29.29.98/32,REJECT, IPMask
-
-# 豆瓣
-HOST, frodo.douban.com, IPMask
-HOST, www.douban.com, IPMask
-
 # 酷安
 HOST, api.coolapk.com, IPMask
 
-# TapTap
-HOST, api.taptapdada.com, IPMask
-
-# 网易大神
-HOST, god.gameyw.netease.com, IPMask
-
 # 虎牙
 HOST-SUFFIX, huya.com, IPMask
-
-# 懂球帝
-HOST-SUFFIX, dongqiudi.com, IPMask
-
-# NGA
-HOST, ngabbs.com, IPMask
-
-# 小米社区
-HOST, api.vip.miui.com, IPMask
 
 # 网易云音乐
 HOST-SUFFIX, music.163.com, IPMask
@@ -158,13 +127,3 @@ HOST-SUFFIX, danmuproxy.douyu.com, IPMask
 HOST-SUFFIX, img.douyucdn.cn, IPMask
 HOST-SUFFIX, douyucdn.cn, IPMask
 HOST-SUFFIX, douyu.com, IPMask
-
-# 米游社
-HOST, bbs-api.mihoyo.com, IPMask
-
-# 豆瓣
-HOST-SUFFIX, douban.com, IPMask
-IP-CIDR, 49.233.242.15/32, IPMask
-IP-CIDR, 81.70.124.99/32, IPMask
-IP-CIDR, 81.70.125.19/32, IPMask
-IP-CIDR, 140.143.177.206/32, IPMask
